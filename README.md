@@ -32,5 +32,5 @@ Atualmente, meu foco principal de desenvolvimento está no back-end, construindo
 * **Sistemas de Grupo de estudos (ESTUDA MAIS):** Desenvolvimento de um sistema para estudo em grupo, com chat em tempo real e upload de materiais.
 ## 📊 Estatísticas
 
-[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true)](https://github.com/SEU_USUARIO_AQUI)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true)](https://github.com/SEU_USUARIO_AQUI)
+[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CarlosOliveira7&show_icons=true&theme=radical&hide_border=true)](https://github.com/SEU_USUARIO_AQUI)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOliveira7&layout=compact&theme=radical&hide_border=true)](https://github.com/SEU_USUARIO_AQUI)
